@@ -1,9 +1,3 @@
----
-layout: home
-title: no
-permalink: /
----
+# Puppy Happy Book
 
-
-
-![](https://workhub.oss-cn-shanghai.aliyuncs.com/picture/general/phl/phbook-cover-img.jpg)
+A book to make your puppy happy

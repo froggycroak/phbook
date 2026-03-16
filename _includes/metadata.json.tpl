@@ -57,7 +57,7 @@
         },
         "structure": {
             "langs": "LANGS.md",
-            "readme": "README.md",
+            "readme": "home.md",
         },
         "variables": {},
         "title": "{{site.title}}",
